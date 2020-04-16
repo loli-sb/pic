@@ -1,1 +1,1 @@
-# loli.fan
+# loli
