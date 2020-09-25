@@ -1,2 +1,2 @@
-# Initial page
+# 起始页
 
