@@ -1,1 +1,2 @@
-# loli
+# Initial page
+
