@@ -12,7 +12,7 @@ function read(...$filelist) {
     return $list;
 }
 
-$list = read('ks.txt');
+$list = read('https://cdn.jsdelivr.net/gh/sks02/pic/girl/ks.txt');
 $url = $list[array_rand($list)];
 
 header("Location: {$url}");
